@@ -18,10 +18,10 @@ body:
     validations:
       required: true
   - type: input
-      id: persona
-      attributes:
-        label: Role-play Persona (optional)
-        description: Name/title used for role-play (e.g., Dr. Vale).
+    id: persona
+    attributes:
+      label: Role-play Persona (optional)
+      description: Name/title used for role-play (e.g., Dr. Vale).
   - type: textarea
     id: contribution_summary
     attributes:
