@@ -1,0 +1,18 @@
+name: "Planetary Survey Submission"
+description: "Contribute a planet/system/fauna/flora survey. Complete all required fields and attach proof (screenshots) before submitting."
+title: "[Survey]: "
+labels: ["Survey", "Planetary-Survey", "Needs-Review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for contributing!**  
+        Please fill all required fields. Submissions without proof or proper naming will be returned for revision.
+  - type: input
+    id: research_team
+    attributes:
+      label: Research Team Name
+      description: Your Research Teams Name
+      placeholder: Context Research Team
+    validations:
+      required: true
