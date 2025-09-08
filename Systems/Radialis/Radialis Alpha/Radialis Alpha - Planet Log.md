@@ -1,10 +1,11 @@
 **Designation:** Radialis Alpha (formerly **Nogak 40/P9**)
-**System**: [[System Log|The Radialis System]]
+**System**: [[Radialis - System Log|The Radialis System]]
 **Biome**: Radioactive
 **Primary Surface Colour**: Brown-Gray
 **Water World:** False
 **Threat Level**: Moderate - Class II Hazard World
 **Base**: Alpha Site
+**Discovered By:** The Context Research Team
 **Survey Date:** 2025-09-03
 
 ---

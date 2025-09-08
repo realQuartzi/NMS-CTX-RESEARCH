@@ -5,6 +5,7 @@
 **Water World:** {{Is the Planet Primarily Water? True / False}}  
 **Threat Level**: {{Low / Moderate / High / Extreme}} - Class {{I /  II / III / IV}} Hazard World  
 **Base**:  {{Base Name / None}}  
+**Discovered By:** {{Individual Entity / Research Team Name}}
 **Survey Date:** {{date}}  
 
 ---
