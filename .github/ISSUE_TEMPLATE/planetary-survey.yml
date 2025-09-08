@@ -17,32 +17,32 @@ body:
       placeholder: Context
     validations:
       required: true
-- type: input
-    id: persona
+  - type: input
+      id: persona
+      attributes:
+        label: Role-play Persona (optional)
+        description: Name/title used for role-play (e.g., Dr. Vale).
+  - type: textarea
+    id: contribution_summary
     attributes:
-      label: Role-play Persona (optional)
-      description: Name/title used for role-play (e.g., Dr. Vale).
-- type: textarea
-  id: contribution_summary
-  attributes:
-    label: Contribution Summary
-    description: Short summary of the submission (what this adds or proposes).
-  validations:
-    required: true
-- type: textarea
-  id: full_text
-  attributes:
-    label: Full Text / Notes
-    description: Short write-up, logs, or theory text. Attach screenshots/files using the issue attachments UI.
-- type: checkboxes
-  id: publish_check
-  attributes:
-    label: Confirmations
-    description: Required confirmations for publishing.
-    options:
-      - label: I confirm this may be published publicly.
-        required: true
-      - label: I used the available templates for recording our findings.
-        required: true
-      - label: I followed naming conventions / linked related surveys.
-        required: true
+      label: Contribution Summary
+      description: Short summary of the submission (what this adds or proposes).
+    validations:
+      required: true
+  - type: textarea
+    id: full_text
+    attributes:
+      label: Full Text / Notes
+      description: Short write-up, logs, or theory text. Attach screenshots/files using the issue attachments UI.
+  - type: checkboxes
+    id: publish_check
+    attributes:
+      label: Confirmations
+      description: Required confirmations for publishing.
+      options:
+        - label: I confirm this may be published publicly.
+          required: true
+        - label: I used the available templates for recording our findings.
+          required: true
+        - label: I followed naming conventions / linked related surveys.
+          required: true
