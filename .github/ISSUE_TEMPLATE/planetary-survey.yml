@@ -33,7 +33,7 @@ body:
     id: full_text
     attributes:
       label: Full Text / Notes
-      description: Short write-up, logs, or theory text. Attach screenshots/files using the issue attachments UI.
+      description: Full write-up, logs, or theory text. Attach screenshots/files using the issue attachments UI.
   - type: checkboxes
     id: publish_check
     attributes:
