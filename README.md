@@ -1,4 +1,4 @@
-# Context Research Team – Research Notes
+# Context Global Archive
 
 Welcome, Traveler.  
 This repository holds the **official** **research notes**, **planetary logs**, and **survey data** compiled by the **Context Research Team** – a group dedicated to cataloging the strange and fascinating discoveries of the No Man’s Sky universe.
