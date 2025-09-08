@@ -20,7 +20,7 @@
 - [[Radialis Alpha - Planet Log|Radialis Alpha]] - Radioactive / Medium
 - [[Lasones IX]] - Cold / Medium
 - [[Greato J45]] - Radioactive / Medium
-- [[Planet Log|Necrovia]] - Radioactive / Extreme
+- [[Necrovia - Planet Log|Necrovia]] - Radioactive / Extreme
 - [[Rigu 43/P9]] - Cold / Medium
 ---
 ## Base & Stations
@@ -32,4 +32,4 @@
 ---
 ## Expedition Notes
 - The overall system threat level is low.
-- [[Planet Log|Necrovia]] is one of the most "disgusting" planets discovered.
+- [[Necrovia - Planet Log|Necrovia]] is one of the most "disgusting" planets discovered.
