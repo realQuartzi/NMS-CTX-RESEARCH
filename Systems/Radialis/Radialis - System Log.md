@@ -16,12 +16,12 @@
 	- Radioactive: 3
 ---
 ## Planet Index
-- [[Truscus Omega]] - Cold / Medium
-- [[Radialis Alpha - Planet Log|Radialis Alpha]] - Radioactive / Medium
-- [[Lasones IX]] - Cold / Medium
-- [[Greato J45]] - Radioactive / Medium
+- [[Truscus Omega]] - Cold / Moderate
+- [[Radialis Alpha - Planet Log|Radialis Alpha]] - Radioactive / Moderate
+- [[Lasones IX]] - Cold / Moderate
+- [[Greato J45]] - Radioactive / Moderate
 - [[Necrovia - Planet Log|Necrovia]] - Radioactive / Extreme
-- [[Rigu 43/P9]] - Cold / Medium
+- [[Rigu 43/P9]] - Cold / Moderate
 ---
 ## Base & Stations
 - Alpha Site - Located on [[Radialis Alpha - Planet Log|Radialis Alpha]], purpose: Research
