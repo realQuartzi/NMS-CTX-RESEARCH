@@ -16,6 +16,16 @@ Our aim is to provide structured records of systems, planets, fauna, flora, and 
 - **Naming Conventions** –> Cause Quartzi has to wait on everyone to progress.
 ---
 
-## Contributions
+## Contributions  
 This repository is maintained by the **Context Research Team**, but we **welcome outside contributors**!  
-Explorers are encouraged to role-play as members of **independent Research Teams** who share their survey data with us. 
+Explorers are encouraged to role-play as members of **independent Research Teams** who share their survey data with us.  
+
+---
+
+## Vision
+We hope this vault serves both as:  
+1. A living record of our adventures.
+2. A source of inspiration for other explorers who wish to keep their own research logs.
+
+> *“Every system has a story, every planet has a memory, and every now and then a giant worm shakes everything up.”*  
+> – Quartzi
