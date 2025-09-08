@@ -1,0 +1,14 @@
+# Ignore local data
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/themes.json
+.obsidian/graph.json
+.obsidian/workspace.json
+
+# Ignore system and editor files
+.idea/
+.vscode/
+
+# Ignore these... 
+.DS_Store
+Thumbs.db
