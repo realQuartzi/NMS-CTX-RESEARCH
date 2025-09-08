@@ -6,3 +6,11 @@ This repository holds the **official** **research notes**, **planetary logs**, a
 Our aim is to provide structured records of systems, planets, fauna, flora, and anomalies we encounter during exploration. These notes are written and maintained in **Obsidian**, then published here for public viewing and reference.
 
 > This is purely for fun. We really enjoy the game and thought to take it a little bit more serious for some unique lore.
+---
+
+## Contents
+- **System Logs** –> Star systems, their coordinates, and notable features.
+- **Planetary Surveys** –> Detailed planet profiles, resources, hazards, and bases.
+- **Flora & Fauna Records** –> Ecological studies and unique species encounters.
+- **Research Notes** –> Anomalies, cultural theories, and collaborative findings.
+- **Naming Conventions** –> Cause Quartzi has to wait on everyone to progress.
