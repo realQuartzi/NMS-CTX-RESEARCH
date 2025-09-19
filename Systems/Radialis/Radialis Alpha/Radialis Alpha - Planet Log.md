@@ -28,5 +28,4 @@
 - N/A
 ---
 ## Notes
-- Original primary research settlement of the Context Research Team.
-- Hosts the primary radioactive research facility called Alpha Site.
+- Hosts a Fossil Research Facility designated [[Context Fossil Research Facility|RRAF1-A]] by the Context Research Team.
